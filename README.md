@@ -1,6 +1,6 @@
 # Employee-Tracker ![image](https://user-images.githubusercontent.com/119913449/219522398-67e14063-61e7-4a8a-9558-cf04a22945e1.png)
 
-# Tabel of Contents
+# Table of Contents
 1. [Title](#employee-tracker)
 2. [Purpose](#purpose)
 3. [Installation](#installation)
