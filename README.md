@@ -10,7 +10,7 @@
 
 # Purpose
 
-The purpose of this app is to give users a way to write and store notes for later use. Notes are convenient and easy create and to access.
+The purpose of this app is to give users a way to view and add employees and keep track of their information.
 
 # Installation
 To install this app, clone this repository from GitHub. Once you've cloned it, open schema.sql in the integrated terminal and type the command "mysql -u root -p" and type in your password. Then type the command "SOURCE schema.sql". Finally, type "SOURCE seeds.sql". Now open the server.js file and type in the command "node server.js". 
